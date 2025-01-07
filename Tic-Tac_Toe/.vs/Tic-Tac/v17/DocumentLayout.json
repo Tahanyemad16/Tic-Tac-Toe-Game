@@ -1,0 +1,37 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "D:\\datastrcture.tahany\\MyProjects\\Tic-Tac\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{B605480A-8892-4D77-88D8-A45483E22471}|Tic-Tac\\Tic-Tac.vcxproj|D:\\datastrcture.tahany\\MyProjects\\Tic-Tac\\Tic-Tac\\Tic-Tac.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{B605480A-8892-4D77-88D8-A45483E22471}|Tic-Tac\\Tic-Tac.vcxproj|solutionrelative:Tic-Tac\\Tic-Tac.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Tic-Tac.cpp",
+              "DocumentMoniker": "D:\\datastrcture.tahany\\MyProjects\\Tic-Tac\\Tic-Tac\\Tic-Tac.cpp",
+              "RelativeDocumentMoniker": "Tic-Tac\\Tic-Tac.cpp",
+              "ToolTip": "D:\\datastrcture.tahany\\MyProjects\\Tic-Tac\\Tic-Tac\\Tic-Tac.cpp",
+              "RelativeToolTip": "Tic-Tac\\Tic-Tac.cpp",
+              "ViewState": "AQIAAGoAAAAAAAAAAAAqwIUAAAABAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
+              "WhenOpened": "2025-01-07T21:37:02.319Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
